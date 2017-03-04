@@ -6,7 +6,7 @@ Five Dwarves ( Gimli Fili Ilif Ilmig and Mark) met at the Prancing Pony and play
 
 ## Building and running
 
-To build, make sure gradle is installed, and type:
+To build and run unit tests, make sure gradle is installed, and type:
 ```
 gradle build
 ```
