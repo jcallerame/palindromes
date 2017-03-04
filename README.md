@@ -15,3 +15,21 @@ To run, type:
 ```
 java -jar build/libs/panlindromes.jar
 ```
+
+## Output
+
+Running the program produces the following output:
+```
+IlifFili
+GimliIlmig
+FiliIlif
+IlmigGimli
+IlifIlmigGimliFili
+FiliGimliIlmigIlif
+GimliIlifFiliIlmig
+IlmigIlifFiliGimli
+IlifGimliIlmigFili
+FiliIlmigGimliIlif
+GimliFiliIlifIlmig
+IlmigFiliIlifGimli
+```
