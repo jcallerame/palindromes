@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PalindromeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-03T12:39:13" hostname="Johns-MacBook-Air.local" time="0.003">
-  <properties/>
-  <testcase name="testIsPalindromeMethod" classname="PalindromeTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
