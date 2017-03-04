@@ -11,7 +11,7 @@ To build and run unit tests, make sure gradle is installed, and type:
 gradle build
 ```
 
-To run, type:
+To run the program, type:
 ```
 java -jar build/libs/panlindromes.jar
 ```
